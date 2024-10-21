@@ -58,14 +58,14 @@ To start the chatbot, run the following command:
 - Enter your Hugging Face and Groq API keys in the sidebar.
 - Start asking questions about the PDF content!
 ### **Project Structure**
-
-pdf-insight-chatbot/
-│
-├── app.py                  # Main Streamlit app script
-├── requirements.txt         # Required Python packages
-├── .env                     # Environment variables (Hugging Face & Groq API keys)
-├── README.md                # Project documentation
-└── temp.pdf                 # Temporary file for uploaded PDFs (auto-generated)
+      
+      pdf-insight-chatbot/
+      │
+      ├── app.py                  # Main Streamlit app script
+      ├── requirements.txt         # Required Python packages
+      ├── .env                     # Environment variables (Hugging Face & Groq API keys)
+      ├── README.md                # Project documentation
+      └── temp.pdf                 # Temporary file for uploaded PDFs (auto-generated)
 
 
 
