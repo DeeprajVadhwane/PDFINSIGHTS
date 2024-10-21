@@ -37,14 +37,28 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/pdf-insight-chatbot.git
 cd pdf-insight-chatbot
-
+```
 ### **Step 2: Install Dependencies**
 
 
 ```bash
 pip install streamlit langchain chromadb huggingface-hub pypdfloader python-dotenv
+```
+### **Step 3: Set Up Environment Variables**
+```bash
+HF_TOKEN=your_huggingface_api_key
+GROQ_API_KEY=your_groq_api_key
+```
+## **Step 4: Run the Application**
 
+To start the chatbot, run the following command:
 
+## **Step 5: Use the Chatbot**
+
+- Open your browser and go to http://localhost:8501.
+- Upload one or more PDF files using the file uploader.
+- Enter your Hugging Face and Groq API keys in the sidebar.
+- Start asking questions about the PDF content!
 ### **Project Structure**
 
 pdf-insight-chatbot/
