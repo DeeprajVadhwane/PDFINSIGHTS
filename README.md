@@ -2,8 +2,6 @@
 
 ## Project Description
 
-PDF Insight is an interactive tool designed to enhance the learning experience by enabling users to engage in a conversational interface with their PDF documents. Whether you're a student, researcher, or professional, this application allows you to upload PDFs and ask questions related to the content. The system retrieves the relevant information from the document, contextualizes the queries using chat history, and provides concise answers.
-
 PDFInsight is an AI chatbot designed to allow users to upload PDF documents and ask questions about the content. It uses Retrieval-Augmented Generation (RAG) for dynamic and context-aware question answering, integrating chat history for more natural interactions. The project leverages **Hugging Face Embeddings**, **Groq LLM**, and **Chroma Vector Store** for enhanced document retrieval and response generation.
 ## Problem Statement
 
