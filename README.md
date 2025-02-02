@@ -79,6 +79,3 @@ To start the chatbot, run the following command:
 - **Future Enhancements**: Lists potential improvements for the project.
 - **Contributing**: Guidelines for others who wish to contribute to the project.
 - **License**: Specifies the licensing for the project.
-
-Feel free to modify any parts of the README to better fit your project!
-
